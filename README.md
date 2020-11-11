@@ -1,4 +1,4 @@
-# Visual Reasearch Paper
+# Visual Research Paper
 ### Project for IntraMIC Hack 'September 2020
 <hr>
 
@@ -7,7 +7,15 @@
    ### Objective: 
 
    Take a pdf of a research paper and generate a comprehensive mind map as a means of visual summarization. 
-
+   
+   ### Motivation:
+   
+   As executives in an undergraduate machine intelligence research community, we saw a need in fellow students with learning disabilities who had difficulty  understanding the often tedious text of research papers. This project also proved to be extremely helpful for visual learners within the community as well. We’re hoping to make this tool open to the general public soon.
+   
+   ### How It Works:
+   
+   ![](beryllium1.gif)
+   
    ### Components:
    1. Extract the structured text from the pdf
         ##### Input: PDF
@@ -32,4 +40,6 @@
    1. Extract figures and tables to add its labels to image nodes containing figure/table
    2. Extract formulas to add as separate nodes
    3. Generate a cleaner mind map 
+   
+   ![](beryllium.gif)
 
